@@ -16,7 +16,7 @@ Check out the live demo: [Personalized Birthday Card](https://frolicking-cheesec
 ## Usage
 
 1. **Clone the repository:**
-- git clone [(https://github.com/abdulrahmans0414/Business-Card.git)https://github.com/abdulrahmans0414/Business-Card.git]
+- git clone [https://github.com/abdulrahmans0414/Business-Card.git]
 
 
 2. **Customize the Business Card:**
